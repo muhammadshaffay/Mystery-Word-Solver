@@ -1,0 +1,68 @@
+ART | (Starting Index) : 2 , 11 | (Ending Index) : 2 , 13 | Directions : East 
+
+ART | (Starting Index) : 16 , 3 | (Ending Index) : 18 , 1 | Directions : South - West 
+
+ART | (Starting Index) : 17 , 9 | (Ending Index) : 15 , 7 | Directions : North - West 
+
+ENGLISH | (Starting Index) : 8 , 12 | (Ending Index) : 8 , 6 | Directions : West 
+
+LANGUAGE | (Starting Index) : 8 , 19 | (Ending Index) : 8 , 12 | Directions : West 
+
+READING | (Starting Index) : 3 , 7 | (Ending Index) : 3 , 13 | Directions : East 
+
+SPRINGBREAK | (Starting Index) : 16 , 15 | (Ending Index) : 16 , 5 | Directions : West 
+
+BASKETBALL | (Starting Index) : 19 , 4 | (Ending Index) : 10 , 4 | Directions : North  
+
+BASKETBALL | (Starting Index) : 19 , 4 | (Ending Index) : 10 , 4 | Directions : North  
+
+FRIENDS | (Starting Index) : 1 , 13 | (Ending Index) : 7 , 7 | Directions : South - West 
+
+LIBRARY | (Starting Index) : 14 , 0 | (Ending Index) : 8 , 0 | Directions : North  
+
+RECESS | (Starting Index) : 15 , 3 | (Ending Index) : 10 , 3 | Directions : North  
+
+STUDYING | (Starting Index) : 12 , 16 | (Ending Index) : 12 , 9 | Directions : West 
+
+BELL | (Starting Index) : 14 , 17 | (Ending Index) : 11 , 17 | Directions : North  
+
+GEOGRAPH | (Starting Index) : 9 , 6 | (Ending Index) : 9 , 13 | Directions : East 
+
+LUNCH | (Starting Index) : 4 , 14 | (Ending Index) : 4 , 18 | Directions : East 
+
+SCHOOL | (Starting Index) : 17 , 12 | (Ending Index) : 17 , 17 | Directions : East 
+
+TEACHERS | (Starting Index) : 7 , 13 | (Ending Index) : 14 , 6 | Directions : South - West 
+
+BUS | (Starting Index) : 2 , 10 | (Ending Index) : 0 , 12 | Directions : North - East 
+
+GYM | (Starting Index) : 4 , 9 | (Ending Index) : 4 , 7 | Directions : West 
+
+MATHEMATICS | (Starting Index) : 18 , 5 | (Ending Index) : 18 , 15 | Directions : East 
+
+MATHEMATICS | (Starting Index) : 18 , 5 | (Ending Index) : 18 , 15 | Directions : East 
+
+SCIENCE | (Starting Index) : 6 , 3 | (Ending Index) : 0 , 3 | Directions : North  
+
+TERMS | (Starting Index) : 15 , 2 | (Ending Index) : 19 , 2 | Directions : South  
+
+DANCES | (Starting Index) : 1 , 10 | (Ending Index) : 6 , 15 | Directions : South - East 
+
+HISTORY | (Starting Index) : 7 , 16 | (Ending Index) : 7 , 10 | Directions : West 
+
+MUSIC | (Starting Index) : 0 , 17 | (Ending Index) : 4 , 13 | Directions : South - West 
+
+SOCCER | (Starting Index) : 8 , 1 | (Ending Index) : 3 , 1 | Directions : North  
+
+VOLLEYBALL | (Starting Index) : 19 , 10 | (Ending Index) : 19 , 19 | Directions : East 
+
+DETENTION | (Starting Index) : 5 , 11 | (Ending Index) : 5 , 19 | Directions : East 
+
+HOMEWORK | (Starting Index) : 13 , 13 | (Ending Index) : 13 , 6 | Directions : West 
+
+PRINCIPAL | (Starting Index) : 10 , 6 | (Ending Index) : 10 , 14 | Directions : East 
+
+SOCIALSTUDIES | (Starting Index) : 2 , 5 | (Ending Index) : 14 , 5 | Directions : South  
+
+WATERFOUNTAIN | (Starting Index) : 2 , 2 | (Ending Index) : 14 , 2 | Directions : South  
+
